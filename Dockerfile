@@ -24,4 +24,5 @@ EXPOSE 8080
 
 # Start the application using the Gradle wrapper,  
 # with "--continuous" to automatically rebuild on file changes  
-CMD ["./gradlew", "apprun", "--continuous"]
+CMD ["./gradlew", "appRun", "--continuous"] 
+#Fixing appRun because gradle is case sensitive 
