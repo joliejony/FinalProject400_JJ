@@ -1,4 +1,4 @@
-#orginal readme file from existing repo
+#orginal readme file from existing repo.
 
 
 ## Demo - demonstrates an application and tests
