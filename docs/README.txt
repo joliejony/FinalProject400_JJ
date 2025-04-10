@@ -1,4 +1,4 @@
-Contents of the docs directory
+Contents of the docs directory.
 ------------------------------
 
 /api_testing                      : testing web API's
