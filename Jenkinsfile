@@ -2,12 +2,12 @@
 
 pipeline {
 
-  agent {
-  label 'master' 
+  agent { label 'master' }
+
   tools {
     jdk 'Java 17'
   }
-}
+
 
    environment {
         // This is set so that the Python API tests will recognize it
